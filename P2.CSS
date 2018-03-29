@@ -1,0 +1,19 @@
+h1{
+  font-family: Comic Sans MS;
+  text-transform: uppercase;
+  border-bottom: 1px solid black;
+}
+img{
+  width: 200px;
+  height: 200px;
+}
+h3{
+  text-align: center;
+  color: blue;
+}
+#style1{
+  background-color: lightblue;
+}
+#style2{
+  background-color: purple;
+}
